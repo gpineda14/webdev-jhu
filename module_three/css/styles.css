@@ -1,0 +1,26 @@
+/* HEADER */
+.nav-header .navbar-default {
+  background-color: rgba(152, 251, 152, .2);
+  color: black;
+}
+
+#nav-list a {
+  width: 100%;
+  text-align: center;
+  background-color: #efeded;
+  color: black;
+  font-size: 24px;
+}
+#nav-list li {
+  border: 1px solid white;
+  margin-top: 0;
+}
+/* END OF HEADER */
+
+/* MAIN CONTENT */
+#main-content #description {
+  background-color: rgba(152, 251, 152, .2);
+  opacity: .8;
+  color: black;
+}
+/* END OF MAIN CONTENT */
